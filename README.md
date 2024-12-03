@@ -1,7 +1,7 @@
 # ServeRest Store
-Projeto de Automação com Cypress para finalidade de Avaliação Técnica para Ambev Tech
-Frontend: https://front.serverest.dev/
-Swagger API: https://serverest.dev/
+Projeto de Automação com Cypress para finalidade de Avaliação Técnica para Ambev Tech  
+Frontend: https://front.serverest.dev/  
+Swagger API: https://serverest.dev/  
 
 Os cenários de testes foram criados para serem executados de maneira independente, onde os dados são criados a partir da camada de fixtures que foram definidas para utilizarem os dados no momento da execução, onde será criada, validar o contexto do teste e posteriormente apagada por existir um grande volume de pessoas acessando a aplicação ServeRest.
 
