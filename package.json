@@ -1,0 +1,20 @@
+{
+  "name": "servereststore",
+  "version": "1.0.0",
+  "description": "Projeto de Automação E2E da Serverest Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [
+    "serverest",
+    "store",
+    "cypress"
+  ],
+  "author": "Felipe Tedeschi",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.16.0",
+    "cypress-plugin-api": "^2.11.2"
+  }
+}

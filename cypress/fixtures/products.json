@@ -1,0 +1,20 @@
+{
+    "product1": {
+        "nome": "Mouse Lenovo Legion",
+        "preco": 500,
+        "descricao": "Mouse",
+        "quantidade": 10
+    },
+    "product2": {
+        "nome": "Teclado Lenovo Legion",
+        "preco": 500,
+        "descricao": "Teclado",
+        "quantidade": 10
+    },
+    "product3": {
+        "nome": "Monitor Dell Gaming",
+        "preco": 2000,
+        "descricao": "Monitor",
+        "quantidade": 10
+    }
+}

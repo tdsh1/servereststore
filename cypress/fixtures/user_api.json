@@ -1,0 +1,20 @@
+{
+    "admin_user": {
+        "nome": "Felipe Tedeschi",
+        "email": "felipetedeschi@admin1.com",
+        "password": "1q2w3e4r",
+        "administrator": "true"
+    },
+    "non_admin_user": {
+        "nome": "Felipe Tedeschi",
+        "email": "felipetedeschi@nonadmin1.com",
+        "password": "1q2w3e4r",
+        "administrator": "false"
+    },
+    "remove_user": {
+        "nome": "Felipe Tedeschi",
+        "email": "felipetedeschi@remove1.com",
+        "password": "1q2w3e4r",
+        "administrator": "false"
+    }
+}
